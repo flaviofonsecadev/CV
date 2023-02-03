@@ -1,6 +1,6 @@
 Credits:
 
-	Designed with ♥️ and creativity by Devcrud.com 
+	Designed by Devcrud.com 
 
     Demo Images:
         Unsplash:       	(https://www.unsplash.com)
